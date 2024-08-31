@@ -1,0 +1,29 @@
+/* header div */
+.header { 
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: #1abc9c; /* green background */
+    color: white; /* white text color */
+}
+
+  /* h1 element */
+.header h1 {
+    font-size: 40px;
+}
+
+
+/* top nav bar */
+.navbar {
+    overflow: hidden; /* Hide overflow */
+    background-color: #367; /* Dark background color */
+}
+
+  /* nav bar links */
+.navbar a {
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 14px 20px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+}

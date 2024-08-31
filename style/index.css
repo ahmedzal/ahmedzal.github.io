@@ -95,7 +95,7 @@
 
 .bgimg1, .bgimg2, .bgimg3 {
 
-  background-image: url(images/bg1.png);
+  background-image: url(../images/bg1.png);
 
   /* Set a specific height */
   height: 500px;
